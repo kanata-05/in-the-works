@@ -1,8 +1,12 @@
 # in-the-works
 Projects of mine that are in the works. (Later shifted to a repository of their own)
 
-## encryptor  
-  A encryptor which layers a whole bunch of ciphers and more (and to actually encrypt it, it uses AES-256 at the end)  
+## polyglot  
+  A program which can run in multiple languages without any errors  
+  Currently works in (Javascript, Python) and (Whitespace, Trigger, Brain-Fack, Perl 6,  
+  05AB1E, Pip, Thutu, Hexagony, Underload, Nim, Prelude, Reng, Cardinal, Julia, Pyth, Haystack,  
+  Turtlèd, Ruby, Fission, Befunge-98, Befunge-93, Perl 5, Retina, Japt, SMBF, Python 2, ><>,  
+  Minkolang, V/Vim, Python 3)
 
 ## pifind  
   Find any sequence of digits in pi, uses the chudnovsky algorithm to calcuate pi (where's the fun in a pre-calcuated one)  
