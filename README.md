@@ -23,13 +23,13 @@ Also containing a list of projects that I have in mind.
   Trained on the MNIST dataset using tensorflow and keras, 128 neurons, 2 hidden layers.
 
 # plist
-  Amatuer Rocket Vehicle
-    - Rocket Flight Computer (RFC)
-    - Liquid Rocket Engine
-      - Gimbal System
-      - Nozzle Design
-      - Pumps
-      - Fuels
-        - Licenses
+  Amatuer Rocket Vehicle  
+    - Rocket Flight Computer (RFC)  
+    - Liquid Rocket Engine  
+      - Gimbal System  
+      - Nozzle Design  
+      - Pumps  
+      - Fuels  
+        - Licenses  
 
   
