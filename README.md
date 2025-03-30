@@ -1,5 +1,6 @@
 # in-the-works
-Projects of mine that are in the works. (Later shifted to a repository of their own)
+Projects of mine that are in the works. (Later shifted to a repository of their own) 
+Also containing a list of projects that I have in mind.
 
 ## polyglot  
   A program which can run in multiple languages without any errors  
@@ -15,3 +16,20 @@ Projects of mine that are in the works. (Later shifted to a repository of their 
   the program will run until the string is found.  
 
   -s value is the sequence of digits to find.
+
+
+## Image Recognition
+  A Neural Network capable of recognizing images and their contents, currently can recognize ~~hand~~mouse-written digits  
+  Trained on the MNIST dataset using tensorflow and keras, 128 neurons, 2 hidden layers.
+
+# plist
+  Amatuer Rocket Vehicle
+    - Rocket Flight Computer (RFC)
+    - Liquid Rocket Engine
+      - Gimbal System
+      - Nozzle Design
+      - Pumps
+      - Fuels
+        - Licenses
+
+  
