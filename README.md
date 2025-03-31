@@ -2,6 +2,20 @@
 Projects of mine that are in the works. (Later shifted to a repository of their own) 
 Also containing a list of projects that I have in mind.
 
+### Image Recognition
+  A Neural Network capable of recognizing images and their contents, currently can recognize ~~hand~~mouse-written digits  
+  Trained on the MNIST dataset using tensorflow and keras, 128 neurons, 2 hidden layers.
+
+### Spinning Cube
+  Literally what the name is, a spinning cube, spinning in all axises at once  
+
+### QuantumSmartAIPoweredSuperNeuralNetworkNFTBlockchainDecentralisedWeb3Shell  
+  A shell where you can just use normal basic english to specify what you want to do,  
+  The LLM processes it and comes up with a command (yes, the name is intentional :3)  
+
+
+# Finished Projects
+
 ## polyglot  
   A program which can run in multiple languages without any errors  
   Currently works in (Javascript, Python) and (Whitespace, Trigger, Brain-Fack, Perl 6,  
@@ -16,20 +30,5 @@ Also containing a list of projects that I have in mind.
   the program will run until the string is found.  
 
   -s value is the sequence of digits to find.
-
-
-## Image Recognition
-  A Neural Network capable of recognizing images and their contents, currently can recognize ~~hand~~mouse-written digits  
-  Trained on the MNIST dataset using tensorflow and keras, 128 neurons, 2 hidden layers.
-
-# plist
-  Amatuer Rocket Vehicle  
-    - Rocket Flight Computer (RFC)  
-    - Liquid Rocket Engine  
-      - Gimbal System  
-      - Nozzle Design  
-      - Pumps  
-      - Fuels  
-        - Licenses  
 
   
