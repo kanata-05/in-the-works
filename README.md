@@ -6,12 +6,12 @@ Also containing a list of projects that I have in mind.
   A Neural Network capable of recognizing images and their contents, currently can recognize ~~hand~~mouse-written digits  
   Trained on the MNIST dataset using tensorflow and keras, 128 neurons, 2 hidden layers.
 
-### Spinning Cube
-  Literally what the name is, a spinning cube, spinning in all axises at once  
+### ~~Spinning Cube~~ Spinner
+  It is now a spinner. 
   Added the ability to spin all .stl files (added .obj too but isn't working)  
   W/S to increase/decrease the spin velocity, A/D to increase/decrease model size  
-  Z/X to zoom in/out, adding cli commands for a square, donut, cube (default)
-
+  Z/X to zoom in/out.  
+  
 ### QuantumSmartAIPoweredSuperNeuralNetworkNFTBlockchainDecentralisedWeb3Shell  
   A shell where you can just use normal basic english to specify what you want to do,  
   The LLM processes it and comes up with a command (yes, the name is intentional :3)  
