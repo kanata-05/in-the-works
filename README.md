@@ -8,6 +8,9 @@ Also containing a list of projects that I have in mind.
 
 ### Spinning Cube
   Literally what the name is, a spinning cube, spinning in all axises at once  
+  Added the ability to spin all .stl files (added .obj too but isn't working)  
+  W/S to increase/decrease the spin velocity, A/D to increase/decrease model size  
+  Z/X to zoom in/out
 
 ### QuantumSmartAIPoweredSuperNeuralNetworkNFTBlockchainDecentralisedWeb3Shell  
   A shell where you can just use normal basic english to specify what you want to do,  
