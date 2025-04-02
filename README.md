@@ -3,8 +3,8 @@ Projects of mine that are in the works. (Later shifted to a repository of their 
 Also containing a list of projects that I have in mind.
 
 ### Image Recognition
-  A Neural Network capable of recognizing images and their contents, currently can recognize ~~hand~~mouse-written digits  
-  Trained on the MNIST dataset using tensorflow and keras, 128 neurons, 2 hidden layers.
+  A Neural Network capable of recognizing images and their contents, currently can recognize basic Images  
+  however, it's accuracy is rather bad and it cannot recognize humans.
 
 ### ~~Spinning Cube~~ Spinner
   It is now a spinner. 
