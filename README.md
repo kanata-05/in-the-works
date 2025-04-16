@@ -1,21 +1,11 @@
 # in-the-works
-Small projects of mine that are in the works. (Later shifted to a repository of their own) 
-Also containing a list of projects that I have in mind.
+Small projects
+
+# Finished Projects
 
 ### Chat AP
   A basic chat application that communicates over TCP, not very secure,  
   built for inter-network communication
-
-### pie@home (This project has been moved to a repo, https://github.com/kanata-05/pie-at-home/)
-  A volunteer computing project where multiple clients can contribute into the calcuation of pi (Our goal is 400 trillion digits)  
-  This program will use the Bailey–Borwein–Plouffe formula (or BBP) since it has the ability to  
-  calcuate any digit of pi without having to calcuate the preceding digits, this ability is what   
-  will enable us to distribute the computation tasks across devices. This program was inspired by  
-  Great Internet Mersenne Prime Search (GIMPS), SETI@home and Minecraft@home.  
-  However there is a major problem with such a program and that being, How to verify the computed digits of pi?  
-  (without recalcuating)
-
-# Finished Projects
 
 ### Image Recognition
   A Neural Network capable of recognizing images and their contents, currently can recognize basic Images  
